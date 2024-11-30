@@ -1,4 +1,4 @@
-# 📊데이터를 중요하게 생각합니다
+# 📊 데이터를 중요하게 생각합니다
 
 
 <!--내용 부분-->
@@ -78,7 +78,7 @@
 |기간|프로젝트|역할|
 |---|---|---|
 |2024.03.02 ~ 2024.09.02|[Non-Filter Bubble을 활용한 도서 추천 서비스 웹 개발](https://github.com/kirikaka/Non-Filter-Bubble-AI)|**AI** 데이터 수집 및 DB 설계와 구축, LightGCN을 활용한 논필터 도서 추천 기능 개발 , LLM을 활용한 도서 소개 한 문장 생성 기능 개발|
-|2024.05. ~ 2024.06|[네이버 지도 & 카카오맵을 이용한 광운대 주변 맛집 대시보드 개발](https://github.com/Jihye511/KW-Graduation)|**FE,AI** 식당 평점 및 리뷰 데이터 수집, BERT를 활용한 대가성 리뷰 분류 모델 개발, Streamlit을 활용한 대시보드 개발|
+|2024.05. ~ 2024.06|[네이버 지도 & 카카오맵을 이용한 광운대 주변 맛집 대시보드 개발](https://github.com/kirikaka/Team-Baek-TryThis)|**FE,AI** 식당 평점 및 리뷰 데이터 수집, BERT를 활용한 대가성 리뷰 분류 모델 개발, Streamlit을 활용한 대시보드 개발|
 
 <br>
 <div align="center" style ="text=capsule&fontSize=90">
