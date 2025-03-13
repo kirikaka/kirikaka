@@ -63,7 +63,6 @@
       <h2 style="border-bottom: 1px solid #d8dee4;"> 🏅 Stats </h2> 
       <div style="text-align: left;"> 
         <img src="https://github-readme-stats.vercel.app/api?username=kirikaka&show_icons=true" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirikaka&layout=compact" /> 
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kirikaka"/>
       </div> 
     </div>
