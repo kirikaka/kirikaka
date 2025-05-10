@@ -87,5 +87,5 @@
 
 <br>
 <div align="center" style ="text=capsule&fontSize=90">
-🎓KawngWoon University Dept. of Information Convergence(2018~)
+🎓KawngWoon University Dept. of Information Convergence(2018.3~2025.2)
 </div>
